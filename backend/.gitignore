@@ -1,0 +1,14 @@
+# Backend Git Ignore
+.env
+.env.*
+!.env.example
+*.local.properties
+application-local.properties
+
+target/
+bin/
+.classpath
+.project
+.settings/
+*.class
+*.log

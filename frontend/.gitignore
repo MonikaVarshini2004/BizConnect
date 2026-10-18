@@ -1,0 +1,13 @@
+# Frontend Git Ignore
+.env
+.env.*
+!.env.example
+.env.local
+.env.production
+.env.development
+
+node_modules/
+dist/
+.project
+.settings/
+*.log
